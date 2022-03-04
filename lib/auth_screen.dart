@@ -136,7 +136,7 @@ class _AuthScreenState extends State<AuthScreen> with SingleTickerProviderStateM
                           width: 160,
                           // color: Colors.red,
                           child: Text(
-                            "Log In".toUpperCase(),
+                            "Entrar".toUpperCase(),
                           ),
                         ),
                       ),
@@ -170,7 +170,7 @@ class _AuthScreenState extends State<AuthScreen> with SingleTickerProviderStateM
                           width: 160,
                           // color: Colors.red,
                           child: Text(
-                            "Sign Up".toUpperCase(),
+                            "Cadastrar".toUpperCase(),
                           ),
                         ),
                       ),

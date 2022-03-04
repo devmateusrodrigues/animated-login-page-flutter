@@ -27,14 +27,14 @@ class LoginForm extends StatelessWidget {
               child: TextFormField(
                 obscureText: true,
                 decoration: InputDecoration(
-                  hintText: "Password",
+                  hintText: "Senha",
                 ),
               ),
             ),
             TextButton(
               onPressed: () {},
               child: Text(
-                "Forgot Password?",
+                "Esqueceu sua senha?",
                 style: TextStyle(color: Colors.white),
               ),
             ),

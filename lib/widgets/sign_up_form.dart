@@ -26,14 +26,14 @@ class SignUpForm extends StatelessWidget {
               child: TextFormField(
                 obscureText: true,
                 decoration: InputDecoration(
-                  hintText: "Password",
+                  hintText: "Senha",
                 ),
               ),
             ),
             TextFormField(
               obscureText: true,
               decoration: InputDecoration(
-                hintText: "Confirm Password",
+                hintText: "Confirmar senha",
               ),
             ),
             Spacer(flex: 2)
