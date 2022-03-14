@@ -1,3 +1,3 @@
-# Tela de login animada
+# Tela de login animada Animated login page
 
-Essa tela de login foi desenvolvida com as tecnologias de animação do Flutter, seguindo o tutorial do vídeo [neste link](https://www.youtube.com/watch?v=MTgEtUZtPqE). O objetivo é, mais adiante, dar andamento ao projeto Cemig Data Reader utilizando esse código como parte do frontend mobile.
+This login page was developed with Flutter animation tools, following the tutorial video at [this link](https://www.youtube.com/watch?v=MTgEtUZtPqE). The goal is to use this code in the near future as the frontend for Cemig Data Reader application.
